@@ -1,0 +1,125 @@
+body {
+  text-align: center;
+  background-color: #3EC1FF;
+}
+
+azul {
+  color: blue;
+}
+
+verde {
+  color: green;
+}
+
+rojo {
+  color: red;
+}
+
+.top-title {
+  display: block;
+  font-size: 28px;
+  font-family: impact;
+  color: #5B56A5;
+  text-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
+}
+
+.logo {
+  margin-top: 50px;
+  margin-left: 150px;
+  margin-right: 150px;
+  display: inline-block;
+  width: 350px;
+  height: 350px;
+}
+
+.top-container {
+  background-image: url("../images/backgroundhd2.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+  margin-top: -25px;
+}
+
+.dateline {
+  background-color: #5B56A5;
+  display: block;
+  width: 100%;
+  font-size: 20px;
+  font-family: verdana;
+  color: white;
+  margin-top: -30px;
+}
+
+.middle-title {
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  font-size: 22px;
+  font-family: verdana;
+  color: #5B56A5;
+  text-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
+}
+
+.middle-container {
+  background-color: white;
+  display: block;
+  width: 100%;
+  margin-top: -27px;
+  padding-bottom: 20px;
+}
+
+.pkm {
+  width: 200px;
+  height: 200px;
+}
+
+.description {
+  display: inline-block;
+  font-family: verdana;
+  font-size: 14px;
+  color: #333;
+  width: 250px;
+  height: 300px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.description2 {
+  display: inline-block;
+  font-family: verdana;
+  font-size: 14px;
+  color: #333;
+  width: 70%;
+  height: 300px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.description2 img {
+  height: 800px;
+  width: 600px;
+}
+
+.bottom-container {
+  background-color: #333333;
+  display: block;
+  width: 100%;
+  margin-top: -25px;
+}
+
+.bottom-title {
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  font-size: 22px;
+  font-family: verdana;
+  color: white;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.bottom-container p {
+  color: white;
+}
